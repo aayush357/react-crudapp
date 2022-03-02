@@ -1,3 +1,8 @@
+# React CRUD - APP
+The front-end is developed using React.js and the backend is built using Spring-boot.
+
+# The site is deployed at https://react-springboot.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
